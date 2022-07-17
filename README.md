@@ -3,5 +3,5 @@
   <p>This is a Discord bot that allows members to select roles by reacting to a message.</p>
 </div>
 
-### Notice
+#### Notice
 Project will be deprecated once the Discord onboarding screen is globally released.
